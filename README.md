@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/59021351.svg)](https://zenodo.org/badge/latestdoi/59021351)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.807679.svg)](https://doi.org/10.5281/zenodo.807679)
 
 # Wenzel Tipton Classified List of Hosts and Parasites
 
